@@ -26,8 +26,10 @@ Regardless if you can or cannot answer the question, provide a short explanation
 Python libraries installed: pandas, matplotlib, scikit-learn
 
 Existing code taken from the following sources (with some modifications):
-    Ankit Prasad's K-Means Clustering Algorithm at https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00
-    Vik Paruchuri's K-Means Clustering Algorithm at https://www.dataquest.io/blog/k-means-clustering-us-senators/
+
+Ankit Prasad's K-Means Clustering Algorithm at https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00
+
+Vik Paruchuri's K-Means Clustering Algorithm at https://www.dataquest.io/blog/k-means-clustering-us-senators/
 
 To solve this problem, I first did some research online on clustering algorithms, since I haven't had much experience with Python or machine learning.
 
